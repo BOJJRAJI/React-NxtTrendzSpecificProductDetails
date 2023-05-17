@@ -1,0 +1,52 @@
+.similar-product {
+  margin-right: 5px;
+  margin-bottom: 10px;
+}
+.similar-product-image {
+  height: 150px;
+  width: 200px;
+  border-radius: 10px;
+}
+.title {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #12022f;
+  font-weight: bold;
+}
+.similar-product-brand {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #616e7c;
+}
+.rating-price-similar-products-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.similar-product-price {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #12022f;
+  font-weight: bold;
+}
+.similar-product-rating-container {
+  color: #ffffff;
+  background-color: #0967d2;
+  height: 40px;
+  margin-top: 10px;
+  margin-right: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 7px;
+  padding: 5px;
+}
+.similar-product-rating {
+  font-family: 'Roboto';
+  font-size: 17px;
+}
+.similar-star-image {
+  height: 17px;
+  width: 17px;
+}
